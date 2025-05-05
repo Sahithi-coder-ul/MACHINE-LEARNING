@@ -21,3 +21,7 @@ I began by importing and preprocessing the dataset, handling missing values, con
 The entire implementation and evaluation process was documented in a Jupyter Notebook, which served as the final deliverable. This task significantly enhanced my understanding of the machine learning workflow—from data preprocessing and model training to performance evaluation and result interpretation.
 
 Through this experience, I gained hands-on proficiency in practical ML concepts and tools that are highly relevant for real-world problem solving.
+
+#output
+
+![Image](https://github.com/user-attachments/assets/56090721-0705-48bb-bbe8-c5309e93b542)
